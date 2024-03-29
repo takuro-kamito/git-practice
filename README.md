@@ -1,1 +1,2 @@
-# sites
+# ECサイト　Nagano cake 
+github practice
